@@ -1,2 +1,5 @@
-# TodoListApp
-Todo List app full stack front end using react native and backend using laravel 10
+## Todo list app
+
+**Learning full stack mobile development**
+
+This is the front end for my app
